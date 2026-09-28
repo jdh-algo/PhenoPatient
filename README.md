@@ -93,3 +93,7 @@ bytes exactly with a different model or service.
 See `DATA_CARD.md` for field descriptions and joins. The data are synthetic;
 rule convergence checks internal consistency, not clinical correctness or
 population prevalence. Do not use PhenoPatient for patient care.
+
+## Contact
+
+Interested in this work? Contact fei-jintao@outlook.com.
